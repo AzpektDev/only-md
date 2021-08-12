@@ -1,5 +1,6 @@
 # A repo only contains a MarkDown files
 > I know that maybe this is not a very useful repository.
+> Have an idea to add something? Fell free to create pull request!
 
 # Markdown formating
 
